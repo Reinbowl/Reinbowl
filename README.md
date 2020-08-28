@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Reinbowl/Reinbowl/master/assets/eevee.gif>
+(https://github.com//Reinbowl/Reinbowl/master/assets/eevee.gif)
 <h1 align='center'> Hewwo! 👋
 <p align='center'>
 I'm Reinbowl.
