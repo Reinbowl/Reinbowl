@@ -1,6 +1,8 @@
 <h1 align='center'> Hewwo! 👋
 <p align='center'>
 I'm Reinbowl.
+</p>
+<p align='center'>
 <img src="https://github.com/Reinbowl/Reinbowl/blob/master/assets/eevee.gif">
 </p>
 <!--
